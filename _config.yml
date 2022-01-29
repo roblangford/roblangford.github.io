@@ -1,0 +1,12 @@
+title: Rob Langford
+description: Personal Blog for Doco tracking
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-architect
+
+
+#Customizations:
+url: "https://roblangford.github.io"
+search_enabled: true
+color_scheme: dark
+markdown: kramdown
