@@ -1,6 +1,6 @@
 title: Rob Langford
 description: Personal Blog for Doco tracking
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
 
