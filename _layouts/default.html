@@ -39,6 +39,15 @@
         </section>
 
         <aside id="sidebar">
+            <h3> Blog</h3>
+            <ul>
+              {% for doc in site.docs.blog %}
+                {% if doc.category == "Blog" %}
+                  <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
               <small>Download</small>
