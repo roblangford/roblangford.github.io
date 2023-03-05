@@ -11,7 +11,7 @@ permalink: /
 
 I've been working in IT for a number of years and tend to lose large portions of documentation or notes between roles. I'll be using this to store and track the things I'm doing. And the things I'm studying. If you find anything of use or if you need any clarification feel free to let me know.
 
-Twitter: @TheRobLangford
+Mastodon: https://infosec.exchange/@RobLangford
 {: .fs-6 .fw-300 }
 
 
